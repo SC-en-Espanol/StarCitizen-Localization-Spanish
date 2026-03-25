@@ -1,4 +1,4 @@
-# [Traducción en Español de Star Citizen](https://discord.gg/aggMUUM4Xr)
+# [Traducción en Español de Star Citizen 4.7.0](https://discord.gg/aggMUUM4Xr)
 
 > [!NOTE]
 > [Traducciones amigas](#traducciones-amigas)
