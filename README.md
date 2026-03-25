@@ -1,8 +1,6 @@
 # [Traducción en Español de Star Citizen](https://discord.gg/aggMUUM4Xr)
 
 > [!NOTE]
-> Esta traducción para evitar problemas con las fuentes de texto, se ha decidido no usar acentos ni caracteres especiales.
->
 > [Traducciones amigas](#traducciones-amigas)
 
 ## Guia basica de instalacion
