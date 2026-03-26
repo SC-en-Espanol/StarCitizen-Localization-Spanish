@@ -13,22 +13,39 @@ import shutil
 # 2. Copiar el "data/Localization/spanish_(spain)/global.ini" a "Tools/scripts/release/" como "global.ini.es_ES"
 
 fileUser = "user.cfg"
-fileSpanish = "data/Localization/spanish_(spain)/global.ini"
 toolsPath = "Tools\\scripts\\release"
+
+fileSpanish = "data/Localization/spanish_(spain)/global.ini"
 zipName = "SC_Spanish.zip"
 zipPath = os.path.join(os.getcwd(), f"{toolsPath}\\{zipName}")
 zipFiles = [fileUser, fileSpanish]
 
+fileSpanishASCII = "data/Localization/spanish_(spain)/global.ascii.ini"
+zipNameASCII = "SC_Spanish_ASCII.zip"
+zipPathASCII = os.path.join(os.getcwd(), f"{toolsPath}\\{zipNameASCII}")
+zipFilesASCII = [fileUser, fileSpanishASCII]
+
+
+
 print(zipPath)
 
 # 1. Crear un zip llamado "SC_Spanish.zip" en "Tools/scripts/release/"
-print("Creating zip file...")
+print("Creating normal zip file...")
 with zipfile.ZipFile(zipPath, "w", zipfile.ZIP_DEFLATED) as zip:
     for file in zipFiles:
         zip.write(file)
-print("Zip file created!")
+print("Normal Zip file created!")
+print("Creating ASCII zip file...")
+with zipfile.ZipFile(zipPathASCII, "w", zipfile.ZIP_DEFLATED) as zip:
+    for file in zipFilesASCII:
+        zip.write(file)
+print("ASCII ip file created!")
 
-# 2. Copiar el "data/Localization/spanish_(spain)/global.ini" a "Tools/scripts/release/" como "global.ini.es_ES"
-print("Copying global.ini...")
-shutil.copyfile(fileSpanish, f"{toolsPath}\\global.ini.es_ES")
-print("global.ini copied!")
+
+# # 2. Copiar el "data/Localization/spanish_(spain)/global.ini" a "Tools/scripts/release/" como "global.ini.es_ES"
+# print("Copying normal global.ini...")
+# shutil.copyfile(fileSpanish, f"{toolsPath}\\global.es_ES.ini")
+# print("normal global.ini copied!")
+# print("Copying normal global.ini...")
+# shutil.copyfile(fileSpanish, f"{toolsPath}\\global.es_ES.ascii.ini")
+# print("normal global.ini copied!")
