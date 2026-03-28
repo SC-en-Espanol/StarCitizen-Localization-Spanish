@@ -1,5 +1,37 @@
 # CHANGELOG
 
+## v0.12.1
+
+## 🚀 Versión **V0.12.1** — Pequeños Arreglos
+
+### 🗓️ Fecha de actualización: *2026-03-28*
+
+---
+
+## 📂 Cambios en `global.ini`
+
+### 🔄 Consistencia y Terminología
+
+- **Unificación de GREMIO:** Se estandarizó el uso de `GREMIO` (en mayúsculas), eliminando variantes como `Gremio`, `GUILDA`, `GUILDE` y `Guild`.  
+- **Cazarrecompensas:** Ajustados roles y profesiones para mantener una capitalización consistente en diálogos y fichas de contrato.  
+- **Limpieza de "N/A":** Todas las instancias de `N / A` fueron corregidas a `N/A` para uniformidad en las entradas de reputación.  
+
+---
+
+### 🐛 Correcciones de Formato (UI & Tags)
+
+- **Action Tags:** Eliminados los espacios redundantes en etiquetas de acción (por ejemplo, `[~action(...) ]` ➜ `[~action(...)]`).  
+- **MobiGlas:** Corregido el espaciado en varias entradas de `Journal_General` para evitar saltos de línea no deseados.  
+- **Tutoriales:** Se añadió el prefijo `[N/A]` a los marcadores de misiones del tutorial, facilitando la depuración interna.  
+- **Terminología:** `Cazador de recompensas` ➜ `Cazarrecompensas`.  
+
+---
+
+### 🧩 Otros Ajustes
+
+- **Misiones (`~mission(Contractor)`):** Algunas descripciones fueron reescritas para evitar errores de reconocimiento debido a traducciones literales.  
+- Diversos **ajustes menores** de formato y coherencia interna.  
+
 ## v0.12.0
 
 - Pues que hay de nuevo viejo
