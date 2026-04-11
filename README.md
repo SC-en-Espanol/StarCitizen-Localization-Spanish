@@ -1,20 +1,20 @@
 # [Traducción en Español de Star Citizen 4.7.0](https://discord.gg/aggMUUM4Xr)
 
-> [!NOTE] Información
+> [!NOTE]
+> Ahora con soporte inicial para **ASCII**.
 > Hay dos versiones para descargar una con acentos y una sin (ASCII)
-> Ahora con soporte inicial para **SCII**.
 > [Traducciones amigas](#traducciones-amigas)
 
 ## Guía básica de instalación
 
-> [!IMPORTANT] IMPORTANTE
+> [!IMPORTANT]
 > 1) Descargar la [ultima versión](https://github.com/Autovot/SC_Spanish_SOK/releases)
 > 2) Descomprimir
 > 3) Colocar en la carpeta de instalación del juego CARPETA LIVE (Ejemplo: `C:\Program Files\Roberts Space Industries\StarCitizen\LIVE`)
 
 ## Updates
 
-Informacion sobre las releases y la traducción en [nuestro discord](https://discord.gg/aggMUUM4Xr)
+Información sobre las releases y la traducción en [nuestro discord](https://discord.gg/aggMUUM4Xr)
 
 ## Colaboradores actuales
 

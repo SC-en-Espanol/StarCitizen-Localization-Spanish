@@ -1,7 +1,7 @@
 # Lista de comandos de los scripts
 
 
-## Ordenar alfabeticamente los .ini (Script desactivado)
+## Ordenar alfabéticamente los .ini (Script desactivado)
 
 ```shell
 php .\Tools\scripts\ordenarAlfabeticamente.php
@@ -13,13 +13,13 @@ php .\Tools\scripts\ordenarAlfabeticamente.php
 php .\Tools\scripts\scLangPatcher.php
 ```
 
-## Encontrar diferecnias
+## Encontrar diferencias
 
 ```shell
 php .\Tools\scripts\encontrarDiferencias.php
 ```
 
-## Crear una release (pendiente de automazación con github actions)
+## Crear una release (pendiente de automatización con github actions)
 
 ```shell
 py .\Tools\scripts\release\create_release.py
