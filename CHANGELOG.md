@@ -3,7 +3,7 @@
 
 ## v0.12.2 🗓️ *2026-04-11*
 
-- Añadidas las lineas de la 4.7.1
+- Añadidas las líneas de la 4.7.1
 
 ## v0.12.1 🗓️ *2026-03-28*
 

@@ -1,4 +1,4 @@
-# [Traducción en Español de Star Citizen 4.7.0](https://discord.gg/aggMUUM4Xr)
+# [Traducción en Español de Star Citizen 4.7.1](https://discord.gg/aggMUUM4Xr)
 
 > [!NOTE]
 > Ahora con soporte inicial para **ASCII**.
@@ -36,6 +36,6 @@ Información sobre las releases y la traducción en [nuestro discord](https://di
 
 | Versión | Creador/es | Enlace                                                                                                                                                                                                                                               | Feedback                                                        |
 | ------- | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
-| 4.7.0   | Doncasta   | [Traducción ](https://github.com/Doncasta1996/Star-Citizen-Spanish)                                                                                                                                                                                  | [Github](https://github.com/Doncasta1996/Star-Citizen-Spanish) |
-| 4.7.0   | Jota_be    | [Traducción Murciano](https://cdn.discordapp.com/attachments/1161994539217731674/1485993757039005738/StarCitizen_Espanol_4.7_Jota_Be_1.470_LIVE_01.zip?ex=69c3e308&is=69c29188&hm=eabb4f4263ab74764b2aa11c8d6fef6e203e85ab621ddc8dd14a4aaf8c0a5ec4&) | [Discord](https://discord.gg/52tRT9YuQe)                        |
-| 4.7.0   | 0zzyt0     | [Traducción](https://drive.google.com/file/d/1uOYIVrtvtkBfVan1XprWtsLnI3opZuFi/view?usp=drive_link)                                                                                                                                                  | [Discord](https://discord.gg/GWSrbUCj4P)                        |
+| 4.7.1   | Doncasta   | [Traducción ](https://github.com/Doncasta1996/Star-Citizen-Spanish)                                                                                                                                                                                  | [Github](https://github.com/Doncasta1996/Star-Citizen-Spanish) |
+| 4.7.1   | Jota_be    | [Traducción Murciano](https://cdn.discordapp.com/attachments/1161994539217731674/1487466383615721523/StarCitizen_Espanol_4.7_Jota_Be_1.47_LIVE_02.zip?ex=69da6205&is=69d91085&hm=56b59f38b668f73b0af135cd98044c9e115115364dd5d6f0e6eb59f33bb9eb70&) | [Discord](https://discord.gg/52tRT9YuQe)                        |
+| 4.7.1   | 0zzyt0     | [Traducción](https://drive.google.com/file/d/1uOYIVrtvtkBfVan1XprWtsLnI3opZuFi/view)                                                                                                                                                  | [Discord](https://discord.gg/GWSrbUCj4P)                        |
