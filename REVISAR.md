@@ -8,9 +8,9 @@
 - [ ] Variables que contengan `Aft`, `Deck`, `Front`,`Overhead`, `Port`, `Starboard`
 - [x] Cambiar `multiherramienta` por `Multi-Tool`
 
-## Pedir retroalimentacion
+## Pedir retroalimentación
 
-- Tema ingeneria mm
+- Tema ingeniería mm
 
 - bletted
 
@@ -20,9 +20,9 @@
 
 ## Crear encuestas en discord
 
-> Sobre nombre de empresas, lugares y obejetos
+> Sobre nombre de empresas, lugares y objetos
 
-> Hacer una distinccion entre `Salvage` de chapa y `Salvage` estructural
+> Hacer una distinción entre `Salvage` de chapa y `Salvage` estructural
 
 > `Item_NameSTOR_opencontainer_*`, Hacer mas corto o no la Variable
 
@@ -78,7 +78,7 @@ items = obejetos | articulos
 SHIELDS DOWN = Escudos caidos|abatidos|desactivados|apagados (abajo no)
 Quantum
 seeking missiles = misiles guiados
-noise (contramedida misiles) = ruido 
+noise (contramedida misiles) = ruido
 armor = blindaje (me decanto por esta para naves) | armadura (para jugadores)
 newest batch = nueva tanda
 crystal cycle firing mechanism = mecanismo de disparo de ciclo cristalino
@@ -100,8 +100,8 @@ disperse the heat of battle = dispersar el fragor de la batalla | dispersar el c
 coat = abrigo | chaqueta | chaqueton | capa (actual)
 Core = Peto | Pechera | Nucleo (actual)
 top-of-the-line = tope de linea | primera linea (actual) | tope de gama
-Stealth = Sigiloso | Sigilo | Furtivo 
-courier goods 
+Stealth = Sigiloso | Sigilo | Furtivo
+courier goods
 Temp. Rating = Temperatura. Clasificacion | Rango de temperatura
 Item type = Tipo de articulo | Tipo de objeto | Categoria
 attachment = Fijacion | Anclajes

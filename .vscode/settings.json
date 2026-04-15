@@ -1,4 +1,8 @@
 {
   "bookmarks.saveBookmarksInProject": true,
-  "CodeGPT.apiKey": "Ollama"
+  "CodeGPT.apiKey": "Ollama",
+  "cSpell.language": "es-ES, en",
+  "cSpell.words": [
+    "Cazarrecompensas"
+  ]
 }
