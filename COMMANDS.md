@@ -22,5 +22,5 @@ php .\Tools\scripts\encontrarDiferencias.php
 ## Crear una release (pendiente de automatización con github actions)
 
 ```shell
-py .\Tools\scripts\release\create_release.py
+python .\Tools\scripts\release\create_release.py
 ```

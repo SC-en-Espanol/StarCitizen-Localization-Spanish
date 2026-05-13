@@ -1,6 +1,36 @@
 # CHANGELOG
 
 
+##  v0.12.3  🗓️ *2026-05-13*
+
+> 📋 Parche 4.8 Tactical Strike.
+>
+> **~500+ entradas traducidas** en total
+
+### 🚀 Naves
+8 naves nuevas: Aegis Tiburon, Origin M80, Drake Pitbull, MISC Starlite, Vanduul Mauler, Anvil Odin, Drake Command Module, Kruger L-22 Alpha Wolf; con sus respectivas skins
+
+### 🔧 Mecánicas
+- Sistema de **repostaje completo** (UI, pods, boquillas, misiones UWC, diálogos NPC)
+- **Crafting**: 20+ componentes traducidos
+- **Hangar**: desguace, seguro de carga, naves averiadas
+
+### 🎯 Misiones
+- **Tactical Strike Group (TSG)**: misión multi-fase en Sistema Nyx con diálogos completos
+- **Defensa / XenoThreat**: contratos multi-nivel
+- **Minería** con scanentities *(WIP)*
+
+### 🛡️ Equipo
+- 10+ armas FPS y armamento de la Vanduul Mauler
+- 6 sets de armadura, trajes Tailwind, Flight Blades
+
+### 🌍 Lore & UI
+- Planetas/lunas de Pyro y Stanton, facciones (Shattered Blade, UWC), DefenseCon 2956
+
+
+
+
+
 ## v0.12.2 🗓️ *2026-04-11*
 
 - Añadidas las líneas de la 4.7.1
