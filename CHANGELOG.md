@@ -1,5 +1,29 @@
 # CHANGELOG
+##  v0.12.4  🗓️ *2026-06-05*
 
+### 🛠️ Correcciones y Traducciones Clave
+* **Respeto al Lore:** Se revirtieron traducciones literales a nombres oficiales de Star Citizen:
+  * `Drake Blindado` ➡️ `Drake Ironclad`
+  * `Asalto Blindado` ➡️ `Ironclad Asalto`
+  * `Hoja Vanduul` ➡️ `Vanduul Blade`
+* **Misiones de Bombardeo (Foxwell):** Traducidas del inglés al español las descripciones de las misiones `Foxwell_bombingrun_H/S/VE_desc_001`.
+* **Interfaz de Control (HUD):**
+  * `TARGET SELECTOR` ➡️ `SELECTOR DE OBJETIVO`
+  * `TRGT. STATUS` ➡️ `ESTADO OBJ.`
+
+### ➕ Nuevas Claves Destacadas
+* **Diálogos de Combate (`PU_`):** `309` líneas de transmisiones de radio en español de la Alianza del Pueblo y combates con la fragata *Idris*.
+* **Misión "Tranquility" (`Intersec_`):** `63` claves en español para asistir a la nave de la Alianza en Nyx.
+* **Pinturas de la DefenseCon 2956 (`DefenseCon_`):** `48` descripciones de variantes estéticas (*125a Slate Camo*, *Asgard Sky Forge*, *Aurora MK2 Cloudbuster*, etc.).
+* **Sistema de Repostaje (`refueling_`):** `45` claves de HUD e interfaces para la transferencia de combustible.
+* **Otros:** `409` claves de equipamiento (`item_`), `38` de contratos de seguridad (`Foxwell_`) y `35` tipos de minerales minables (`mineabletype_`).
+
+### 🗑️ Claves Depuradas (Eliminadas)
+* **Limpieza de Sufijos:** Eliminación del sufijo redundante `,P` en claves de mensajería `FTLCourier_RepUI_*`.
+* **Descripciones de Sistemas:** Remoción de textos obsoletos de localizaciones en *Pyro* y *Stanton*.
+* **Configuraciones antiguas:** Retirada de parámetros de atenuación ESP en el menú de pausa y diálogos ambientales inactivos de *Hawker*.
+
+---
 
 ##  v0.12.3  🗓️ *2026-05-13*
 
@@ -27,13 +51,13 @@
 ### 🌍 Lore & UI
 - Planetas/lunas de Pyro y Stanton, facciones (Shattered Blade, UWC), DefenseCon 2956
 
-
-
-
+---
 
 ## v0.12.2 🗓️ *2026-04-11*
 
 - Añadidas las líneas de la 4.7.1
+
+---
 
 ## v0.12.1 🗓️ *2026-03-28*
 
