@@ -1,4 +1,12 @@
 # CHANGELOG
+
+##  v0.12.5  🗓️ *2026-06-18*
+
+* 2 naves añadidas con sus skins y componentes correspondientes: Gatac Railen y Gatac Tyilui
+* Traducido los racks de bombas de la Eclipse, Retaliator y Gladiator
+* Traducido notificación de solicitud de transferencia
+
+
 ##  v0.12.4  🗓️ *2026-06-05*
 
 ### 🛠️ Correcciones y Traducciones Clave

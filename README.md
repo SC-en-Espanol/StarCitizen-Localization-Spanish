@@ -1,4 +1,4 @@
-# [Traducción en Español de Star Citizen 4.8.1](https://discord.gg/aggMUUM4Xr)
+# [Traducción en Español de Star Citizen 4.8.2](https://discord.gg/aggMUUM4Xr)
 
 > [!NOTE]
 > Ahora con soporte inicial para **ASCII**.
@@ -36,6 +36,6 @@ Información sobre las releases y la traducción en [nuestro discord](https://di
 
 | Versión | Creador/es | Enlace                                                                                                                                                                                                                                               | Feedback                                                        |
 | ------- | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
-| 4.8.0   | Doncasta   | [Traducción ](https://github.com/Doncasta1996/Star-Citizen-Spanish)                                                                                                                                                                                  | [Github](https://github.com/Doncasta1996/Star-Citizen-Spanish) |
+| 4.8.2   | Doncasta   | [Traducción ](https://github.com/Doncasta1996/Star-Citizen-Spanish)                                                                                                                                                                                  | [Github](https://github.com/Doncasta1996/Star-Citizen-Spanish) |
 | 4.8.0  | Jota_be    | [Traducción Murciano](https://cdn.discordapp.com/attachments/1161994539217731674/1503883474132664450/Traduccion-SC_Espanol_4.8_Jota_Be-REMIX_005.rar?ex=6a05a0e1&is=6a044f61&hm=b535d803e98bc825eb9e344e6fee6bd99dc9e2ad7916078e8da110acb325fa27&) | [Discord](https://discord.gg/52tRT9YuQe)                        |
-| 4.8.0   | 0zzyt0     | [Traducción](https://drive.google.com/file/d/1uOYIVrtvtkBfVan1XprWtsLnI3opZuFi/view?usp=drive_link)                                                                                                                                                  | [Discord](https://discord.gg/GWSrbUCj4P)                        |
+| 4.8.1  | 0zzyt0     | [Traducción](https://github.com/0zzyt0/Star-CItizen-Spanish-Translate/releases/tag/4.8.1)                                                                                                                                                  | [Discord](https://discord.gg/GWSrbUCj4P)                        |
