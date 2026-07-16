@@ -1,4 +1,4 @@
-# [Traducción en Español de Star Citizen 4.8.2](https://discord.gg/aggMUUM4Xr)
+# [Traducción en Español de Star Citizen 4.9](https://discord.gg/aggMUUM4Xr)
 
 > [!NOTE]
 > Ahora con soporte inicial para **ASCII**.

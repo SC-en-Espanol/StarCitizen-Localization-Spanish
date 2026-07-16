@@ -1,5 +1,26 @@
 # CHANGELOG
 
+##  v0.13.0  🗓️ *2026-07-16*
+
+### ✨ Añadido
+- **Misiones Northrock (Dubuisson)** — Diálogos completos del nuevo arco de misiones de Northrock Service Group
+- **Arco Battaglia** — Diálogos, gestión de misión y UI de reputación de Recco Battaglia
+- **Mendo Ren & Kepler** — Nuevos diálogos de PNJs
+- **Sistema SOO2** — Objetivos, sub-objetivos, UI e introducción del sistema completo
+- **Nuevas facciones** — Moraine / People's Alliance, Cornerstone Developments
+- **Sistema Nyx** — Base Moraine, estación forajida, clúster de asteroides, tránsito
+- **Nuevas naves y vehículos** — Drake, ARGO, MISC, ATLS (mecha), Golem, Fury, Salvation + series Apar y Behring
+- **Sistema de Reabastecimiento** — UI completa, tipos de combustible (H2/Quantum/Ambos), mobiGlas CryAstro
+- **Freight Elevator** — Reclamos, disponibilidad, obstrucciones, sobrecarga
+- **Misiones genéricas** — BoardShip, ShipAmbuscade, DataDownload, CreateUplink, ORS (Construct, MedicalAid, BunkerRaid…)
+- **UI diversa** — Ship Selector, notificaciones HUD, opciones de pausa, etiquetas de UI, scan de entidades+
+
+### 🔄 Modificado
+- Notificaciones de comercio entre jugadores actualizadas
+- Strings de reabastecimiento UWC revisados
+- Entrada general del diario actualizada
+- Descripción de nave GATAC revisada
+
 ##  v0.12.5  🗓️ *2026-06-18*
 
 * 2 naves añadidas con sus skins y componentes correspondientes: Gatac Railen y Gatac Tyilui
