@@ -1,5 +1,32 @@
 # CHANGELOG
 
+##  V0.13.1  🗓️ *2026-08-26*
+
+### ✨ Novedades y Cambios Destacados
+
+- **🚀 Naves y Vehículos:**
+  - Nuevas naves: **Greycat Basher**, **Kruger S-65 Stingray** y **Gatac Tyilui**.
+  - Variantes de misiones para **Drake Golem**, **Drake Clipper**, **ARGO Mole** y **MISC Prospector**.
+  - Nuevas pinturas: esquemas temáticos y piratas para el Basher (*Razorburn*, *Corroded*, *Nightmare*, *Blue Blossom*), *SteelTek* y *Festival de la Base*.
+
+- **📜 Misiones, Diálogos e Historia:**
+  - **Levski & Alianza del Pueblo:** Más de 180 líneas para la cadena narrativa de *Recco Battaglia*, *Isaac* y el *Capitán Amir Lucas*.
+  - **Asedio de Orison (SOO2):** Datapads, códigos y nuevos objetivos de evento.
+  - **Foxwell & Cazadores de Recompensas:** Nuevos contratos contra oleadas de *XenoThreat* y ajustes en certificaciones BHG.
+
+- **🏗️ Hangares, Carga y Terminales:**
+  - **Ship Selector:** Opciones de reclamo y entrega de equipamiento/carga asegurada y predeterminada (*Snapshots*).
+  - **Freight Elevators:** Mensajes de estado, inventario personal, avisos de sobrecarga y bloqueo de objetos robados o contenedores de misión.
+
+- **⚔️ Equipamiento y Armas:**
+  - Nuevas armas Greycat (*Deathroll Ballistic Gatling S2*, *Laser Repeater S2*).
+  - Variantes de rifles Behring (*P4-AR Star Kitten*, *CQ7 Goldsmith/Snowfire/Infantry*) y armaduras pesadas *Morozov Stronghold*.
+
+- **🧭 Interfaz (UI) y Calidad de Vida:**
+  - Pistas y guías en pantalla para el acoplamiento y repostaje en vuelo (*Refueling*).
+  - Notificaciones de disponibilidad de instancias en *mobiGlas*.
+  - Correcciones ortográficas, acentuación y unificación de términos en todo el archivo.
+
 ##  v0.13.0  🗓️ *2026-07-16*
 
 ### ✨ Añadido
