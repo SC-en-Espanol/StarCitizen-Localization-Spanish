@@ -1,5 +1,30 @@
 # CHANGELOG
 
+##  V0.13.2  🗓️ *2026-09-17*
+
+## 🏅 Recompensas — Orison Relief
+- Insignias y set completo **SecondWind** (Tiers T1 – T6).
+
+## 🛡️ Armaduras y Cascos
+| Tipo | Elementos |
+|------|-----------|
+| Sets completos | *Monde Streamline*, *Artimex Akuma* |
+| Cascos | *Shogun Kiba* |
+| Undersuits | *ForceFlex Skeleton* |
+
+## 🔫 Armas
+| Categoría | Modelo |
+|-----------|--------|
+| Fusiles de asalto | *P8-AR*, *CQ7*, *A03* |
+| Pistolas | *LH86* |
+| LMG | *Demeco* |
+| Repetidores | *CF-999* |
+
+## 🚀 Vehículos y Pinturas
+- Exoesqueleto **ATLS GEO Akuma**.
+- Skins: *Aurora Mk II*, *Cutlass*.
+
+
 ##  V0.13.1  🗓️ *2026-08-26*
 
 ### ✨ Novedades y Cambios Destacados
