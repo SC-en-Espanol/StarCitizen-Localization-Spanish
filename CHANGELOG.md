@@ -1,5 +1,33 @@
 # CHANGELOG
 
+##  V0.13.3  🗓️ *2026-10-09*
+
+- 🛸 **Naves y Componentes:**
+  - Nueva **Aegis Sabre Raven EX** (nave de interdicción y sigilo).
+  - Amortiguador cuántico Wei-Tek (*Vertine QD*).
+
+- 🎪 **Evento IASI (+110 líneas):**
+  - Plataforma de exposición, facción y diario de progresión del evento con recompensas e insignias (T1 a T4).
+  - Nuevas misiones: combate espacial, oleadas de naves, patrullas, minería de berilo, salvamento y reabastecimiento en vuelo.
+
+- 🔫 **Armamento y Recetas:**
+  - Escopeta balística Gemini R97 *"Runic"*.
+  - Ametralladora ligera Gemini F55 *"Shadowflux"*.
+  - Recetas de artesanía para *El Coleccionista*.
+
+- 🛡️ **Armaduras y Equipamiento:**
+  - Armadura pesada **Monolith** al completo con variantes (*Liquidator*, *Tsunami*, *Sandhawk*, *Serpentine*).
+  - Variantes industriales **Morozov-SH-I** y mochilas **Morozov-CH** (*Kalahari* y *Headstone*).
+  - Casco temático **DustUp "Skeleton"** (*Día de la Vara*).
+  - Casco superpesado BUL-H4 Stronghold.
+  - Trajes de vuelo blindados **OMNI-AFS-Sapphire** (*Slate*, *Jungle*, *Alpine*).
+
+- ⚙️ **Interfaz y Entorno:**
+  - Descripciones revisadas de rendimiento/coste en las **Refinerías**.
+  - Ranuras y decoraciones de escritorio y estanterías para hangares.
+  - Ajuste experimental de zoom para **VR**.
+
+
 ##  V0.13.2  🗓️ *2026-09-17*
 
 ## 🏅 Recompensas — Orison Relief
