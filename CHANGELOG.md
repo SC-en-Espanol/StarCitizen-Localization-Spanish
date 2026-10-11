@@ -1,6 +1,17 @@
 # CHANGELOG
 
-##  V0.13.3  🗓️ *2026-10-09*
+##  v0.13.3.1  🗓️ *2026-10-11*
+
+> ⚠️ **Hotfix:** Restaura líneas omitidas en la compilación previa (4.10.2) y corrige textos incompletos.
+
+---
+
+### 🛠️ Novedades del Fix
+* **+340 Claves restauradas:** Armaduras (*Monolith, Shadowflux, RSI Explorer*), pinturas de naves (*Constellation, Skylark*) y mochilas pesadas.
+* **Misiones y Evento IASI:** Textos y recompensas traducidos al 100% (eliminados marcadores `TBC`).
+* **Fix de formato:** Saltos de línea (`\n`) corregidos para evitar errores de renderizado en mobiGlas.
+
+##  v0.13.3  🗓️ *2026-10-09*
 
 - 🛸 **Naves y Componentes:**
   - Nueva **Aegis Sabre Raven EX** (nave de interdicción y sigilo).
@@ -28,7 +39,7 @@
   - Ajuste experimental de zoom para **VR**.
 
 
-##  V0.13.2  🗓️ *2026-09-17*
+##  v0.13.2  🗓️ *2026-09-17*
 
 ## 🏅 Recompensas — Orison Relief
 - Insignias y set completo **SecondWind** (Tiers T1 – T6).
@@ -53,7 +64,7 @@
 - Skins: *Aurora Mk II*, *Cutlass*.
 
 
-##  V0.13.1  🗓️ *2026-08-26*
+##  v0.13.1  🗓️ *2026-08-26*
 
 ### ✨ Novedades y Cambios Destacados
 
