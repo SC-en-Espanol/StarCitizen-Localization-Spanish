@@ -1,5 +1,17 @@
 # CHANGELOG
 
+##  v0.13.3.1  🗓️ *2026-10-16*
+
+> ⚠️ **Hotfix:** se incorporan líneas que faltaban relacionadas con el evento *Mes de los Descubrimientos de RSI*.
+
+### 🌌 Evento IASI — Mes de los Descubrimientos de RSI
+- Añadidas las descripciones y títulos de la búsqueda del tesoro con maquetas de la **RSI Constellation**.
+- Añadidos contratos de mensajería y transporte de suministros para las plataformas del evento.
+- Incorporadas misiones de combate contra forajidos: eliminación de hostiles, líderes de bandas y objetivos buscados.
+- Añadidos los textos de la carrera de relevos con la caja dorada y la oferta de alquiler de la **RSI Constellation Mk V**.
+- Añadidas las instrucciones de transporte de carga de **Ling Family Hauling** para el evento.
+
+
 ##  v0.13.3.1  🗓️ *2026-10-11*
 
 > ⚠️ **Hotfix:** Restaura líneas omitidas en la compilación previa (4.10.2) y corrige textos incompletos.
