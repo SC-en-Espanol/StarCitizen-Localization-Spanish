@@ -1,6 +1,10 @@
 # CHANGELOG
 
-##  v0.13.3.1  🗓️ *2026-10-16*
+##  v0.13.4  🗓️ *2026-11-12*
+
+- LIVE 4.10.3
+
+##  v0.13.3.2  🗓️ *2026-10-16*
 
 > ⚠️ **Hotfix:** se incorporan líneas que faltaban relacionadas con el evento *Mes de los Descubrimientos de RSI*.
 
